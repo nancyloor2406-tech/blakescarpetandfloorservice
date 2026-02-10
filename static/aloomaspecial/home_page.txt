@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How long does it take for carpets to dry after a deep cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Typically, carpets are dry within 4 to 8 hours. We use high-powered extraction and air movers to ensure you can return to your normal routine as quickly as possible.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What is the benefit of a garage epoxy floor?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">An epoxy garage floor is non-porous and resistant to oil, chemicals, and impact. It creates a seamless barrier that is much easier to clean than raw concrete.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Can you install new flooring over my existing tiles?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In many cases, yes. Our technicians can assess if a floating floor like laminate flooring installation can be placed over your current surface, saving you the time and cost of a full demolition.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How often should I have my hardwood floors refinished?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most hardwoods benefit from a floor refinishing every 7 to 10 years, depending on the volume of foot traffic and the presence of pets.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Do you offer commercial-scale services?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we are full-service commercial flooring contractors equipped to handle warehouses, retail spaces, and corporate offices nationwide.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-697-9075">Click Here To Call Us (888) 697-9075</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
